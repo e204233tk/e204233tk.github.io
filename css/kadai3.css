@@ -1,0 +1,22 @@
+h1{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+h2{
+   color: green; 
+   background-color: yellowgreen;
+   text-align: center;
+}
+h3{
+   color: blue; 
+}
+p{
+   color: brown; 
+}
+body{
+    background-image: url(../images/003.jpg);
+    background-repeat: no-repeat;
+    background-size: 1480px;
+    
+}
