@@ -1,0 +1,22 @@
+h1{
+    color: white;
+    background-color: palegreen;
+    text-align: center;
+}
+h3{
+    color: white;
+    background-color: darkseagreen;
+    text-align: center;
+}
+table {
+    background-color: aquamarine 
+}
+ol{
+    background-image: url(../images/ee.jpg);
+    background-image: 
+}
+body{
+    background-image: url(../images/kina.jpg);
+    background-repeat: no-repeat;
+    background-size: 1480px;
+}
