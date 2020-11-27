@@ -1,0 +1,28 @@
+h1.dd{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+h1.ddcolor{
+    color:darkgreen;
+    background-color: bisque;
+    text-align: center;
+}
+
+h2.greencolor{
+    color:white;
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+h2.purple{
+    color: white;
+    background-color: deeppink;
+    text-align: center;
+}
+body{
+    background-image: url(../images/kina.jpg);
+    background-repeat: no-repeat;
+    background-size: 3000px;
+}
