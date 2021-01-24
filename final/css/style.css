@@ -1,0 +1,140 @@
+
+div.title{
+    vertical-align: top;
+    width:1000px;
+    height:40px;
+    background-color: lightgreen;
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+div.menu{
+    font-size: 0;
+    width: 1000px;
+    height: 700px;
+
+}
+
+div.menu1{
+    display: inline-block;
+    vertical-align: top;
+    width:250px;
+    height:40px;
+    background-color: gray;
+    margin: 0px 50px 20px 0px;
+}
+
+
+div.menu1-1{
+    font-size: 30px;
+    width:250px;
+    height:40px;
+    background-color: lightblue;
+    margin: 0px 0px 10px 0px;
+    
+}
+
+div.menu1-2{
+    font-size: 30px;
+    width:250px;
+    height:40px;
+    background-color: lightblue;
+    margin: 0px 0px 10px 0px;
+    
+}
+
+div.menu1-3{
+    font-size: 30px;
+    width:250px;
+    height:40px;
+    background-color: lightblue;
+    margin: 0px 0px 10px 0px;
+    
+}
+
+div.menu1-4{
+    font-size: 30px;
+    width:250px;
+    height:40px;
+    background-color: lightblue;
+    margin: 0px 0px 10px 0px;
+    
+}
+
+div.menu1-5{
+    font-size: 30px;
+    width:250px;
+    height:40px;
+    background-color: lightblue;
+    margin: 0px 0px 10px 0px;
+    
+}
+
+div.menu1-6{
+    font-size: 30px;
+    width:250px;
+    height:40px;
+    background-color: lightblue;
+    
+}
+
+
+
+div.menu2{
+    display: inline-block;
+    vertical-align: top;
+    width:700px;
+    height:320px;
+}
+
+div.menu2-1{
+    font-size: 20px;
+    width:700px;
+    height:300px;
+}
+
+div.menu2-2{
+    font-size: 15px;
+    width:700px;
+    height:50px;
+    background-color: white;
+    margin: 0px 0px 10px 0px;
+}
+
+div.menu2-1-1{
+    font-size: 20px;
+    width:700px;
+    height:300px;
+    background-color: black;
+}
+
+div.menu2-2-1{
+    font-size: 15px;
+    width:700px;
+    height:50px;
+    background-color: white;
+    margin: 0px 0px 10px 0px;
+}
+
+div.footer{
+    width:1000px;
+    height:40px;
+    background-color: lightgreen;
+    font-size:15px;
+    color: white;
+    text-align: right;
+    margin-top: 20px;
+}
+
+div.wrap{
+    width:1000px;
+    margin: 0px auto;
+}
+
+body{
+    background-image: url(../images/kina.jpg);
+    background-repeat: no-repeat;
+    background-size: 3000px;
+}
